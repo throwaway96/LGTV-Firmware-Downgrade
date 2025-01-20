@@ -1,5 +1,8 @@
 # LGTV-Firmware-Downgrade
 
+> [!WARNING]
+> This method **does not work** on recent (mid-2022 and later) firmware for LG TVs running webOS 3.0+. This includes webOS 3.4.2, 3.9.2, 4.4.2, 4.9.5-10, ~5.3.1, 6.3.2, and all newer versions. You need root to bypass the restrictions present in these versions. Note that it may still work on WEE (non-LG) TVs running webOS 5.
+
 This guide will help to walk you through downgrading the Software Version and also webOS to a previous version so you can root/jailbreak webOS on on an LGTV from webOS version 4 to 6. **(This document has been edited as of July 25th 2022 - See Commit Changes)**
 
 <a href='https://ko-fi.com/Z8Z6E0CY0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
